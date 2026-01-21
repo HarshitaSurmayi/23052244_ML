@@ -1,0 +1,10 @@
+===== REGRESSION (RMSE) =====
+Linear Regression (Single): 4.094465586312821
+Multiple Linear Regression: 1.1906346888218755
+KNN Regression: 7.505553499465135
+Decision Tree Regression: 6.164414002968976
+
+===== CLASSIFICATION (Accuracy) =====
+Naive Bayes: 0.3333333333333333
+KNN Classifier: 1.0
+Decision Tree Classifier: 1.0
